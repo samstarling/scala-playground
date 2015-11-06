@@ -2,7 +2,7 @@ package com.samstarling.scalaplayground
 
 import org.specs2.mutable._
 
-class MapAndFlatMapSpec extends Specification {
+class MyOptionSpec extends Specification {
 
   "MyOption" should {
 
